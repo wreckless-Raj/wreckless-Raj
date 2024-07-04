@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nz-m&show_icons=true&theme=transparent" alt="Neaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wreckless-Raj&show_icons=true&theme=transparent" alt="Raj's GitHub stats" />
 </p>
